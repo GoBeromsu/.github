@@ -28,25 +28,25 @@ Not every experiment belongs here. This is a deliberately selected collection of
 
 ### Foundations
 
-- [**Oh My Second Brain**](https://github.com/Xia-Ataraxia/oh-my-second-brain): a host-agnostic convention layer for Obsidian and Markdown knowledge vaults.
-- [**Obsidian Vault Template**](https://github.com/Xia-Ataraxia/obsidian-vault-template): PARA + Zettelkasten folders, periodic planning templates, and shared rules for humans and agents (EN/KO).
-- [**craft-skills**](https://github.com/Xia-Ataraxia/craft-skills): vendor-neutral Agent Skills for software and research work across Claude Code, Codex, Hermes, and more.
-- [**secondbrain-skills**](https://github.com/Xia-Ataraxia/secondbrain-skills): nine independent Agent Skills for Obsidian workflows.
+- [**Oh My Second Brain**](https://github.com/GoBeromsu/oh-my-second-brain): a host-agnostic convention layer for Obsidian and Markdown knowledge vaults.
+- [**Obsidian Vault Template**](https://github.com/GoBeromsu/obsidian-vault-template): PARA + Zettelkasten folders, periodic planning templates, and shared rules for humans and agents (EN/KO).
+- [**craft-skills**](https://github.com/GoBeromsu/craft-skills): vendor-neutral Agent Skills for software and research work across Claude Code, Codex, Hermes, and more.
+- [**secondbrain-skills**](https://github.com/GoBeromsu/secondbrain-skills): nine independent Agent Skills for Obsidian workflows.
 
 ### Obsidian plugins
 
-- [**Metadata Auto Classifier**](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier): generate tags and frontmatter for notes with AI providers.
-- [**Obsidian QMD**](https://github.com/Xia-Ataraxia/obsidian-qmd): local QMD search, related notes, and autosync.
-- [**Open Connections**](https://github.com/Xia-Ataraxia/obsidian-open-connections): semantically related notes and search with local or API embeddings, plus an MCP server.
-- [**Eagle Integration**](https://github.com/Xia-Ataraxia/obsidian-eagle): upload pasted images to Eagle and render them from a local vault cache.
-- [**Note Player**](https://github.com/Xia-Ataraxia/obsidian-note-player): play note-backed playlists with YouTube, cached audio, and local files.
-- [**Bible Search**](https://github.com/Xia-Ataraxia/obsidian-bible-search): search Korean and English Bible verses and insert them with a template.
-- [**Obsidian Hermes**](https://github.com/Xia-Ataraxia/obsidian-hermes): view remote Hermes cron schedules and edit profile documents over SSH.
+- [**Metadata Auto Classifier**](https://github.com/GoBeromsu/obsidian-metadata-auto-classifier): generate tags and frontmatter for notes with AI providers.
+- [**Obsidian QMD**](https://github.com/GoBeromsu/obsidian-qmd): local QMD search, related notes, and autosync.
+- [**Open Connections**](https://github.com/GoBeromsu/obsidian-open-connections): semantically related notes and search with local or API embeddings, plus an MCP server.
+- [**Eagle Integration**](https://github.com/GoBeromsu/obsidian-eagle): upload pasted images to Eagle and render them from a local vault cache.
+- [**Note Player**](https://github.com/GoBeromsu/obsidian-note-player): play note-backed playlists with YouTube, cached audio, and local files.
+- [**Bible Search**](https://github.com/GoBeromsu/obsidian-bible-search): search Korean and English Bible verses and insert them with a template.
+- [**Obsidian Hermes**](https://github.com/GoBeromsu/obsidian-hermes): view remote Hermes cron schedules and edit profile documents over SSH.
 
 ### Publishing
 
-- [**Quartz Graph Landing**](https://github.com/Xia-Ataraxia/quartz-graph-landing): a full-viewport 2D/3D knowledge-graph landing page for Quartz.
-- [**website**](https://github.com/Xia-Ataraxia/website): this organization's site, built on the same constellation.
+- [**Quartz Graph Landing**](https://github.com/GoBeromsu/quartz-graph-landing): a full-viewport 2D/3D knowledge-graph landing page for Quartz.
+- [**website**](https://github.com/GoBeromsu/website): this organization's site, built on the same constellation.
 
 ## Operating principles
 
